@@ -1,2 +1,6 @@
 # NYC-subway-ridership
 MTA New York City Subway Average Weekday Ridership by Station, 2014 - 2019 (Pre-COVID-19 pandemic)
+
+<img width="612" alt="Screen Shot 2021-09-27 at 3 44 44 PM" src="https://user-images.githubusercontent.com/45469389/147863785-44d6d526-47c5-4bf0-9154-b0907da38c04.png">
+
+Data visualization of ridership activity for all 473 stations in the New York City subway system prior to the COVID-19 pandemic. A special thanks to Colin Patrick Reid for his contribution of the code template in his article "Exploring and Visualizing Chicago Transit data using pandas and Bokeh — Part II (intro to Bokeh)" in Towards Data Science (https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-ii-intro-to-bokeh-5dca6c5ced10). MTA subway ridership by station data can be found here: https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2019. The geospatial coordinates, or geometry, of the subway stations can be found here: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49. The linestring geometry for the subway lines can be found here: https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu. It is suggested that the files for the stations and lines be downloaded as shapefiles.
